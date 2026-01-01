@@ -1,8 +1,8 @@
 {
   "default-registry": {
     "kind": "git",
-    "baseline": "68a1c387f660632f2f65cdb7e8cd093a08840e5d",
-    "repository": "https://github.com/microsoft/vcpkg"
+    "repository": "https://github.com/greenTableWork/vcpkg",
+    "refs" : "bc2d5e424fc9abc6c8587fa655117f102f80c5c8"
   },
   "registries": [
     {
